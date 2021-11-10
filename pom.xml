@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.solal</groupId>
-	<artifactId>easyMech</artifactId>
+	<artifactId>autoC</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>easyMech</name>
+	<name>autoC</name>
 	<description>application to facilitate the work of mechanics at the garage</description>
 
 	<properties>
